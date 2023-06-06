@@ -1,9 +1,6 @@
 package one.digitalinovation.laboojava.entidade.constantes;
 
-/**
- * Gêneros dos livros vendidos.
- * @author thiago leite
- */
+
 public enum Genero {
 
     DRAMA(15),
